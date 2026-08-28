@@ -1,0 +1,12 @@
+{
+  "name": "KrishiRakshak Edge",
+  "description": "Smart insights for healthier crops and resilient farms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
